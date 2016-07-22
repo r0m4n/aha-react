@@ -6,7 +6,7 @@
 
 This project uses Webpack, ReactJS, Redux, and ES6.  To install the project dependencies you will need to have Node.
 
-Assumed global node dependencies:
+Assumed global npm packages:
 
 - serve
 
